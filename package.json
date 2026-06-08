@@ -1,0 +1,16 @@
+{
+  "name": "code-news",
+  "version": "1.0.0",
+  "description": "Plataforma inspirada em fóruns e portais de tecnologia para compartilhamento de notícias, artigos e conhecimento entre desenvolvedores.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "author": "Thiago Ventura",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
